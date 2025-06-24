@@ -157,9 +157,7 @@ Le CSV contient les colonnes d’origine **+** :
 ---
 
 ## 🖋️ Auteur & Contact
-Créé et maintenu par **Zeitrom** (Hugo Verdier – *Analytics Engineer*).  
-> Twitter / X : [@huve](https://twitter.com/huve)  
-> Email : hugo.verdier@example.com
+Créé et maintenu par **Zeitrom** (Hugo – *Analytics Engineer*).  
 
 Contributions, issues & PR bienvenus !
 
