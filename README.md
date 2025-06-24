@@ -1,6 +1,6 @@
 # availability_grade_async.py — v14
 
-> **Auteur :** Zeitrom *(Hugo Verdier · @huve)*  
+> **Auteur :** Zeitrom *(@huve)*  
 > **Dernière mise à jour :** 24 juin 2025  
 > **Licence :** MIT
 
