@@ -89,7 +89,7 @@ Les principaux paramètres se trouvent en tête de fichier :
 | `MAX_RETRIES`           | Nb max de tentatives par URL              | 3 |
 | `WAIT_BETWEEN_CHUNKS`   | Pause (s) aléatoire entre lots            | (10, 20) |
 | `WAIT_BETWEEN_REQUESTS` | Pause (s) aléatoire entre URL             | (1, 3) |
-| `OUTPUT_FILE`           | Nom du CSV de sortie                      | `polti_IT_asin_graded.csv` |
+| `OUTPUT_FILE`           | Nom du CSV de sortie                      | `****_asin_graded.csv` |
 | **Variables env.**      |                                         | |
 | `INPUT_FILE`            | Remplace le chemin par défaut de l’entrée | — |
 | `SAMPLE_SIZE`           | Taille d’échantillon (débug)             | 0 (désactivé) |
